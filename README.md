@@ -38,7 +38,9 @@ git clone https://github.com/ZeroDayEntity/aura-admin-panel.git
 cd aura-admin-panel
 
 2. Install dependencies:
+
 npm install
+
 3. Run the development server:
 
 
