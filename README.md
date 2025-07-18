@@ -3,7 +3,7 @@ A comprehensive, professional admin dashboard built from the ground up using Rea
 
 📸 Screenshots
 
-[![AuraAdmin Dashboard Screenshot]](https://github.com/ZeroDayEntity/aura-admin-panel/blob/main/screenshots/6039737437640577160.jpg?raw=true)
+[![AuraAdmin Dashboard Screenshot](https://github.com/ZeroDayEntity/aura-admin-panel/blob/main/screenshots/6039737437640577160.jpg?raw=true)
 
 
 [![AuraAdmin Data Table Screenshot](https://github.com/ZeroDayEntity/aura-admin-panel/blob/main/screenshots/6039737437640577162.jpg?raw=true)
