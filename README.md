@@ -1,4 +1,4 @@
-#🎨 AuraAdmin - Professional Admin Panel
+# 🎨 AuraAdmin - Professional Admin Panel
 
 A comprehensive, professional admin dashboard built from the ground up using React and TypeScript. This project showcases a modular architecture, advanced data management features, and a clean, modern user interface.
 
