@@ -41,21 +41,18 @@ npm or yarn
 
 1. Clone the repository:
 
-Bash
-
 git clone https://github.com/ZeroDayEntity/aura-admin-panel.git
 cd aura-admin-panel
 2. Install dependencies:
 
-Bash
 
 npm install
 3. Run the development server:
 
-Bash
 
 npm run dev
 You can now open the project at http://localhost:5173 in your browser.
+
 
 Contact
 Saeed Hesary (ZeroDayEntity) - www.linkedin.com/in/zerodayentity
